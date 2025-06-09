@@ -29,3 +29,6 @@ Este proyecto implementa una **red neuronal inteligente** que detecta patrones d
 
 Ayudar a las empresas a **anticiparse a la falta de disponibilidad de productos**, mejorando la eficiencia operativa y reduciendo impactos negativos en la cadena de suministro.
 
+---
+
+> Proyecto en desarrollo. ¡Colaboraciones y sugerencias son bienvenidas!
