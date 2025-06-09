@@ -19,4 +19,10 @@ Este proyecto implementa una **red neuronal inteligente** que detecta patrones d
 - Python (o el lenguaje que estés usando)
 - Bibliotecas de IA (como TensorFlow, PyTorch, Scikit-learn, etc.)
 
+## 📦 Aplicaciones
+
+- Automatización de la gestión de inventario.
+- Mejora en la planificación logística.
+- Reducción de pérdidas por falta de stock.
+
 
