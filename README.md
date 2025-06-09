@@ -12,4 +12,11 @@ Este proyecto implementa una **red neuronal inteligente** que detecta patrones d
   - Logística
   - Cadena de suministro
 
+## 🧠 Tecnologías utilizadas
+
+- Redes neuronales
+- Machine Learning
+- Python (o el lenguaje que estés usando)
+- Bibliotecas de IA (como TensorFlow, PyTorch, Scikit-learn, etc.)
+
 
