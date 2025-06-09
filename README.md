@@ -25,4 +25,7 @@ Este proyecto implementa una **red neuronal inteligente** que detecta patrones d
 - Mejora en la planificación logística.
 - Reducción de pérdidas por falta de stock.
 
+## 📈 Objetivo
+
+Ayudar a las empresas a **anticiparse a la falta de disponibilidad de productos**, mejorando la eficiencia operativa y reduciendo impactos negativos en la cadena de suministro.
 
