@@ -1,19 +1,19 @@
 package com.example.PruebitaRedNeuronal.dto;
 
 public class StockOutputDTO {
-    private double diasEstimados;
+    private int diasEstimados;
     private String mensaje;
 
-    public StockOutputDTO(double diasEstimados, String mensaje) {
+    public StockOutputDTO(int diasEstimados, String mensaje) {
         this.diasEstimados = diasEstimados;
         this.mensaje = mensaje;
     }
 
-    public double getDiasEstimados() {
+    public int getDiasEstimados() {
         return diasEstimados;
     }
 
-    public void setDiasEstimados(double diasEstimados) {
+    public void setDiasEstimados(int diasEstimados) {
         this.diasEstimados = diasEstimados;
     }
 
