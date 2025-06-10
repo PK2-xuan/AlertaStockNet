@@ -15,11 +15,11 @@ import com.example.PruebitaRedNeuronal.service.StockPredictorService;
 @RequestMapping("/api/stock")
 public class RedNeuronalController {
 
-	 @Autowired
-	    private StockPredictorService predictorService;
+    @Autowired
+    private StockPredictorService predictorService;
 
-	    @PostMapping("/predecir")
-	    public StockOutputDTO predecir(@RequestBody StockInputDTO input) {
-	        return predictorService.predecirDiasHastaQuiebre(input);
-	    }
+    @PostMapping("/predecir")
+    public StockOutputDTO predecir(@RequestBody StockInputDTO request) {
+        return predictorService.predecir(request);
+    }
 }

@@ -1,22 +1,22 @@
 package com.example.PruebitaRedNeuronal.dto;
 
 public class StockInputDTO {
-	 private double consumoDiario;
-	    private double stockActual;
+	
+	private double consumo;
+	private double stock;
+	   
+	public double getConsumo() {
+		return consumo;
+	}
+	public void setConsumo(double consumo) {
+		this.consumo = consumo;
+	}
+	public double getStock() {
+		return stock;
+	}
+	public void setStock(double stock) {
+		this.stock = stock;
+	}
 
-	    public double getConsumoDiario() {
-	        return consumoDiario;
-	    }
-
-	    public void setConsumoDiario(double consumoDiario) {
-	        this.consumoDiario = consumoDiario;
-	    }
-
-	    public double getStockActual() {
-	        return stockActual;
-	    }
-
-	    public void setStockActual(double stockActual) {
-	        this.stockActual = stockActual;
-	    }
+	   
 }
